@@ -7,7 +7,7 @@ This project aims to provide a simple way to perform a PostgreSQL server/db back
 
 #### Steps
 - The script creates a bucket in Google Cloud Storage to upload backups
-- The script create Google cloud service account with credentials and access permisions for GCS (Storage Object Creator, Storage Object Viewer): https://cloud.google.com/kubernetes-engine/docs/tutorials/authenticating-to-cloud-platform?hl=es
+- The script create Google cloud service account with credentials and access permisions for GCS (Storage Object Creator, Storage Object Viewer): https://cloud.google.com/kubernetes-engine/docs/tutorials/authenticating-to-cloud-platform
 ##### Run locally
 You can run the script locally:
 ```
