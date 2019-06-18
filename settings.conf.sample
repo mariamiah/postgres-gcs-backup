@@ -1,0 +1,9 @@
+
+# Postgresql settings
+CLOUDSQL_INSTANCE="name of the sql instance containing the database"
+CLOUDSQL_DB_NAME="name of the specific database"
+PROJECT="name of the gcp project"
+DB_HOST="IP address of the SQL instance"
+DB_PASSWORD="Password of the database"
+username="username of the SQL instance"
+
